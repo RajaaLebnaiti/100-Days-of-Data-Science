@@ -1,0 +1,7 @@
+id,name,age,gender,class,score
+1,Alice,17,F,Math,88
+2,Bob,18,M,Math,92
+3,Charlie,,M,Physics,85
+4,Dana,17,F,Math,
+5,Eli,18,M,Physics,79
+6,Farah,17,F,Chemistry,90

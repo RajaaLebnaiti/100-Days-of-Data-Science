@@ -1,0 +1,23 @@
+Passenger ID
+
+Survived: 0 = No     1 = Yes
+
+Pclass: Ticket classe 1= 1st class, 2= 2nd class, 3= 3rd class 
+
+Name: of passenger 891 unique values
+
+Sex: male 65% or female 35%
+
+Age: in years
+
+SibSp: Number of siblings/spouses abroad the titanic
+
+Parch: Number of parents/children abroad the titanic
+
+Ticket: Ticket number
+
+Fare: Passenger fare the price the passenger payd to travel on titanic
+
+Cabin: Cabin number
+
+Embarked: Port of Embarkation:C = Cherbourg, Q = Queenstown, S = Southampton
