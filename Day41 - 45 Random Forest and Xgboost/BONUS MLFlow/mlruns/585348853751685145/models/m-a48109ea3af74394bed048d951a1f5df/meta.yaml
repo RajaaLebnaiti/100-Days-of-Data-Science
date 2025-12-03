@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/Desktop/100%20Days%20of%20data%20science%20practise/Day41%20-%2045%20Random%20Forest%20and%20Xgboost/BONUS%20MLFlow/mlruns/585348853751685145/models/m-a48109ea3af74394bed048d951a1f5df/artifacts
+creation_timestamp: 1762887234898
+experiment_id: '585348853751685145'
+last_updated_timestamp: 1762887244136
+model_id: m-a48109ea3af74394bed048d951a1f5df
+model_type: ''
+name: Random Forest
+source_run_id: fb82f7d28ff440d887a7f1267ded04a2
+status: 2
+status_message: null

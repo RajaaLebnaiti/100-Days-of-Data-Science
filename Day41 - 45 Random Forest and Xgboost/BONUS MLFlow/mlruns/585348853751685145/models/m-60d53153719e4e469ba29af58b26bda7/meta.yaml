@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/Desktop/100%20Days%20of%20data%20science%20practise/Day41%20-%2045%20Random%20Forest%20and%20Xgboost/BONUS%20MLFlow/mlruns/585348853751685145/models/m-60d53153719e4e469ba29af58b26bda7/artifacts
+creation_timestamp: 1762886934243
+experiment_id: '585348853751685145'
+last_updated_timestamp: 1762886974615
+model_id: m-60d53153719e4e469ba29af58b26bda7
+model_type: ''
+name: XGBoost
+source_run_id: 3cb494749df0496093976224ae38992f
+status: 2
+status_message: null

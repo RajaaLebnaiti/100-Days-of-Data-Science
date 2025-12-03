@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/hp/Desktop/100%20Days%20of%20data%20science%20practise/Day41%20-%2045%20Random%20Forest%20and%20Xgboost/BONUS%20MLFlow/mlruns/585348853751685145/models/m-0f98bb4587fb43d993f9f61ffc4bc557/artifacts
+creation_timestamp: 1762887268440
+experiment_id: '585348853751685145'
+last_updated_timestamp: 1762887279947
+model_id: m-0f98bb4587fb43d993f9f61ffc4bc557
+model_type: ''
+name: Decison Tree
+source_run_id: f1e0fb6b47184c4ea177468a72b9b05c
+status: 2
+status_message: null

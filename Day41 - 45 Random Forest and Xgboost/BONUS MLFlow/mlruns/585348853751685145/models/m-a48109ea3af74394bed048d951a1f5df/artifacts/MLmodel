@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/hp/Desktop/100%20Days%20of%20data%20science%20practise/Day41%20-%2045%20Random%20Forest%20and%20Xgboost/BONUS%20MLFlow/mlruns/585348853751685145/models/m-a48109ea3af74394bed048d951a1f5df/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.8
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.5.1
+model_id: m-a48109ea3af74394bed048d951a1f5df
+model_size_bytes: 101368
+model_uuid: m-a48109ea3af74394bed048d951a1f5df
+prompts: null
+run_id: fb82f7d28ff440d887a7f1267ded04a2
+utc_time_created: '2025-11-11 18:53:55.112160'
