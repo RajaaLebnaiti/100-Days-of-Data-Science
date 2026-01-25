@@ -1,0 +1,9 @@
+    images = list_images_path(paths) # on récupére la liste des images
+    
+    fig, axes = plt.subplots(1, len(images), figsize= (12,6))
+    for idx, image in enumerate (images):
+        img = Image.open(image)
+        axes[idx].imshow(img)
+        axes[idx].axis('off')
+    plt.tight_layout()
+    plt.show()
