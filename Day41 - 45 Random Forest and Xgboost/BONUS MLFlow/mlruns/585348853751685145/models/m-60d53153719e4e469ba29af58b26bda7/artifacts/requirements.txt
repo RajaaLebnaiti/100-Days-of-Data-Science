@@ -1,4 +1,4 @@
-mlflow==3.5.1
+mlflow==3.8.0rc0
 cloudpickle==2.2.1
 lz4==4.3.3
 numpy==1.26.4
